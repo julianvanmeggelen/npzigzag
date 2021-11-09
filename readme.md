@@ -39,5 +39,5 @@ plt.scatter(zz_pivots, X[zz_pivots])
 Ouputs:
 
 ![Plot]
-(https://github.com/julianvanmeggelen/npzigzag/blob/master/zz.png)
+(https://github.com/julianvanmeggelen/npzigzag/raw/master/zz.png)
 

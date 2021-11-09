@@ -24,7 +24,8 @@ Returns:
     * Array with indices of zigzag pivot points.
 
 ### Example:
-'''python
+
+```python
 from npzigzag import core as zz
 import numpy as np
 
@@ -34,7 +35,9 @@ zz_pivots = zz.zigzag(X,0.02, False)
 plt.plot(X, '--')
 plt.plot(zz_pivots, X[zz_pivots])
 plt.scatter(zz_pivots, X[zz_pivots])
-'''
+```
 Ouputs:
+
+![Plot]
 (https://github.com/julianvanmeggelen/npzigzag/zz.png)
 

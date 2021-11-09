@@ -1,0 +1,5 @@
+/.eggs
+/.pytest_cache
+/npzigzag.egg-info
+/requirements_old.txt
+/venv

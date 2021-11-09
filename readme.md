@@ -9,7 +9,7 @@ pip install npzigzag
 from npzigzag import core as zz
 ```
 This package has one method:\
-core.zigzag(X, pc, include_first = True)
+### core.zigzag(X, pc, include_first = True)
 
 Parameters:
 * X: *pd.Series or np.ndarray or list* 

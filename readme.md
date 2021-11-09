@@ -1,5 +1,5 @@
 # npzigzag
-This is a simple numpy implementation of a zigzag indicator.
+This is a simple numpy implementation of a zigzag indicator. It's only dependencies are pandas and numpy.
 
 ## Usage
 ```python

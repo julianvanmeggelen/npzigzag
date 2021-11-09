@@ -12,7 +12,7 @@ This package has one method:
 core.zigzag(X, pc, include_first = True)
 
 Parameters:
-* X: *pd.Series or np.ndarray or list*
+* X: *pd.Series or np.ndarray or list* \n
     Main data to compute the indicator on.
 * pc: *float*
     Percentage change treshold. This indicates the minimum jump the timeseries has to make before a pivot is recognized in the zigzag indicator.

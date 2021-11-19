@@ -5,6 +5,8 @@ setup(
     packages=find_packages(include=['npzigzag']),
     version='0.1',
     description='Vanilla numpy implementation of zigzag indicator.',
+    long_description=readme,
+    long_description_content_type="text/markdown",
     author='Julian van Meggelen',
     license='MIT',
     install_requires = [
